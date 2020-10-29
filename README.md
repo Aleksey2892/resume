@@ -19,6 +19,7 @@ html, css, javascript, react (redux), git.
 ### html/css, javascript
 
 https://aleksey2892.github.io/Image-Finder/
+
 https://aleksey2892.github.io/test-repository/
 
 ### in developing
