@@ -2,6 +2,10 @@
 
 # Aleksey Grygorenko
 
+### My github profile
+
+https://github.com/Aleksey2892
+
 ## Profile
 
 Разработчик на React, JavaScript. Ищу работу в веб разработке, буду рад вашим предложениям.
