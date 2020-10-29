@@ -32,6 +32,7 @@ https://aleksey2892.github.io/filmoteka/
 ### html/css, javascript, react (redux, redux toolkit lib)
 
 https://alexinator-phonebook.netlify.app/home
+
 https://alexinator-goit-react-hw-04-movies.netlify.app/
 
 ## Activity
