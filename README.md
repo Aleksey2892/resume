@@ -4,7 +4,7 @@
 
 ### My github profile
 
-https://github.com/Aleksey2892
+<https://github.com/Aleksey2892/>
 
 ## Profile
 
@@ -20,25 +20,25 @@ html, css, javascript, react (redux), git.
 
 ## Work examples
 
-### html/css, javascript
+- html/css, javascript
 
-https://aleksey2892.github.io/Image-Finder/
+<https://aleksey2892.github.io/Image-Finder/>
 
-https://aleksey2892.github.io/test-repository/
+<https://aleksey2892.github.io/test-repository/>
 
 ### in developing
 
-https://aleksey2892.github.io/project-kharkov-rent/
+<https://aleksey2892.github.io/project-kharkov-rent/>
 
-### teamwork dev, teamleader of proj
+### teamwork dev, team leader of proj
 
-https://aleksey2892.github.io/filmoteka/
+<https://aleksey2892.github.io/filmoteka/>
 
-### html/css, javascript, react (redux, redux toolkit lib)
+- html/css, javascript, react (redux, redux toolkit lib)
 
-https://alexinator-phonebook.netlify.app/home
+<https://alexinator-phonebook.netlify.app/home/>
 
-https://alexinator-goit-react-hw-04-movies.netlify.app/
+<https://alexinator-goit-react-hw-04-movies.netlify.app/>
 
 ## Activity
 
@@ -46,7 +46,7 @@ https://alexinator-goit-react-hw-04-movies.netlify.app/
 
 2009-2020 Монтаж, обработка, рендер видео.
 
-2010-2011 Контент-менеджер интернет-магазина Comteh (Компьютерныйе технологии).
+2010-2011 Контент-менеджер интернет-магазина Comteh (Компьютерные технологии).
 
 2011-2012 Онлайн консультант-продавец. Магазин автозапчастей.
 
